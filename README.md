@@ -1,2 +1,2 @@
-# LiDAR-Device
-A datasheet and set of code dedicated to the development of a LiDAR device used to scan hallways up to 4m wide.
+# LiDAR Device 🤖
+A datasheet and a set of code  dedicated to the development of a LiDAR device used to scan hallways up to 4m wide. This project employs a Texas Instruments MSP432E401Y microcontroller and a ToF sensor. Programming was done in C for backend structuring and Python for data visualization. All information, including programming workflows and circuit schematics, is provided in the datasheet.
